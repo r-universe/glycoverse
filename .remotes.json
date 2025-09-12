@@ -1,0 +1,20 @@
+[
+  {
+    "package": "glyexp",
+    "url": "https://github.com/glycoverse/glyexp",
+    "via": ["glyread"],
+    "from": "glyread"
+  },
+  {
+    "package": "glyparse",
+    "url": "https://github.com/glycoverse/glyparse",
+    "via": ["glyread"],
+    "from": "glyread"
+  },
+  {
+    "package": "glyrepr",
+    "url": "https://github.com/glycoverse/glyrepr",
+    "via": ["glyread", "glyparse"],
+    "from": "glyread"
+  }
+]
