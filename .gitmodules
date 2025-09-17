@@ -21,7 +21,7 @@
 [submodule "glyexp"]
 	path = glyexp
 	url = https://github.com/glycoverse/glyexp
-	branch = *release
+	branch = v0.9.1
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
