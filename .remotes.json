@@ -2,6 +2,12 @@
   {
     "package": "glyclean",
     "url": "https://github.com/glycoverse/glyclean",
+    "via": ["glydet", "glymotif"],
+    "from": "glydet"
+  },
+  {
+    "package": "glyclean",
+    "url": "https://github.com/glycoverse/glyclean",
     "via": ["glyenzy", "glymotif"],
     "from": "glyenzy"
   },
@@ -28,6 +34,12 @@
     "url": "https://github.com/glycoverse/glyexp",
     "via": ["glyclean"],
     "from": "glyclean"
+  },
+  {
+    "package": "glyexp",
+    "url": "https://github.com/glycoverse/glyexp",
+    "via": ["glydet", "glymotif"],
+    "from": "glydet"
   },
   {
     "package": "glyexp",
@@ -62,6 +74,12 @@
   {
     "package": "glymotif",
     "url": "https://github.com/glycoverse/glymotif",
+    "via": ["glydet"],
+    "from": "glydet"
+  },
+  {
+    "package": "glymotif",
+    "url": "https://github.com/glycoverse/glymotif",
     "via": ["glyenzy"],
     "from": "glyenzy"
   },
@@ -70,6 +88,12 @@
     "url": "https://github.com/glycoverse/glyparse",
     "via": ["glyclean", "glyread"],
     "from": "glyclean"
+  },
+  {
+    "package": "glyparse",
+    "url": "https://github.com/glycoverse/glyparse",
+    "via": ["glydet", "glymotif"],
+    "from": "glydet"
   },
   {
     "package": "glyparse",
@@ -110,6 +134,12 @@
   {
     "package": "glyread",
     "url": "https://github.com/glycoverse/glyread",
+    "via": ["glydet", "glymotif", "glyclean"],
+    "from": "glydet"
+  },
+  {
+    "package": "glyread",
+    "url": "https://github.com/glycoverse/glyread",
     "via": ["glyenzy", "glymotif", "glyclean"],
     "from": "glyenzy"
   },
@@ -136,6 +166,12 @@
     "url": "https://github.com/glycoverse/glyrepr",
     "via": ["glyclean", "glyread", "glyparse"],
     "from": "glyclean"
+  },
+  {
+    "package": "glyrepr",
+    "url": "https://github.com/glycoverse/glyrepr",
+    "via": ["glydet", "glymotif"],
+    "from": "glydet"
   },
   {
     "package": "glyrepr",
@@ -172,6 +208,12 @@
     "url": "https://github.com/glycoverse/glyrepr",
     "via": ["glyvis", "glystats", "glyclean", "glyread", "glyparse"],
     "from": "glyvis"
+  },
+  {
+    "package": "glystats",
+    "url": "https://github.com/glycoverse/glystats",
+    "via": ["glydet"],
+    "from": "glydet"
   },
   {
     "package": "glystats",
