@@ -9,7 +9,7 @@
 [submodule "glycoverse"]
 	path = glycoverse
 	url = https://github.com/glycoverse/glycoverse
-	branch = *release
+	branch = v0.1.0
 [submodule "glydet"]
 	path = glydet
 	url = https://github.com/glycoverse/glydet
