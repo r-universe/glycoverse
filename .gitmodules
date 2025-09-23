@@ -1,5 +1,48 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/glycoverse/glycoverse.r-universe.dev
 	branch = HEAD
+[submodule "glyclean"]
+	path = glyclean
+	url = https://github.com/glycoverse/glyclean
+	branch = *release
+[submodule "glycoverse"]
+	path = glycoverse
+	url = https://github.com/glycoverse/glycoverse
+	branch = *release
+[submodule "glydet"]
+	path = glydet
+	url = https://github.com/glycoverse/glydet
+	branch = *release
+[submodule "glyenzy"]
+	path = glyenzy
+	url = https://github.com/glycoverse/glyenzy
+	branch = *release
+[submodule "glyexp"]
+	path = glyexp
+	url = https://github.com/glycoverse/glyexp
+	branch = *release
+[submodule "glymotif"]
+	path = glymotif
+	url = https://github.com/glycoverse/glymotif
+	branch = *release
+[submodule "glyparse"]
+	path = glyparse
+	url = https://github.com/glycoverse/glyparse
+	branch = *release
+[submodule "glyread"]
+	path = glyread
+	url = https://github.com/glycoverse/glyread
+	branch = *release
+[submodule "glyrepr"]
+	path = glyrepr
+	url = https://github.com/glycoverse/glyrepr
+	branch = *release
+[submodule "glystats"]
+	path = glystats
+	url = https://github.com/glycoverse/glystats
+	branch = *release
+[submodule "glyvis"]
+	path = glyvis
+	url = https://github.com/glycoverse/glyvis
+	branch = *release

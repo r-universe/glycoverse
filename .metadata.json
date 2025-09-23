@@ -1,0 +1,46 @@
+[
+  {
+    "package": "glycoverse",
+    "releasetag": true
+  },
+  {
+    "package": "glyexp",
+    "releasetag": true
+  },
+  {
+    "package": "glyread",
+    "releasetag": true
+  },
+  {
+    "package": "glyclean",
+    "releasetag": true
+  },
+  {
+    "package": "glystats",
+    "releasetag": true
+  },
+  {
+    "package": "glyvis",
+    "releasetag": true
+  },
+  {
+    "package": "glyrepr",
+    "releasetag": true
+  },
+  {
+    "package": "glyparse",
+    "releasetag": true
+  },
+  {
+    "package": "glymotif",
+    "releasetag": true
+  },
+  {
+    "package": "glyenzy",
+    "releasetag": true
+  },
+  {
+    "package": "glydet",
+    "releasetag": true
+  }
+]
