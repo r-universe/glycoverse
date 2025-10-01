@@ -260,7 +260,7 @@
   {
     "package": "glyrepr",
     "url": "https://github.com/glycoverse/glyrepr",
-    "via": ["glyvis", "glystats", "glyclean", "glyread", "glyparse"],
+    "via": ["glyvis", "glyexp"],
     "from": "glyvis"
   },
   {
