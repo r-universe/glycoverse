@@ -254,7 +254,7 @@
   {
     "package": "glyrepr",
     "url": "https://github.com/glycoverse/glyrepr",
-    "via": ["glystats", "glyclean", "glyread", "glyparse"],
+    "via": ["glystats", "glyexp"],
     "from": "glystats"
   },
   {
