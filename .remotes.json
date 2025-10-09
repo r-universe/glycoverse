@@ -248,7 +248,7 @@
   {
     "package": "glyrepr",
     "url": "https://github.com/glycoverse/glyrepr",
-    "via": ["glyread", "glyparse"],
+    "via": ["glyread", "glyexp"],
     "from": "glyread"
   },
   {
