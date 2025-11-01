@@ -230,12 +230,6 @@
   {
     "package": "glyrepr",
     "url": "https://github.com/glycoverse/glyrepr",
-    "via": ["glyparse"],
-    "from": "glyparse"
-  },
-  {
-    "package": "glyrepr",
-    "url": "https://github.com/glycoverse/glyrepr",
     "via": ["glyvis", "glyexp"],
     "from": "glyvis"
   },
