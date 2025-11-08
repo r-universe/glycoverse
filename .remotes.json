@@ -122,12 +122,6 @@
   {
     "package": "glyparse",
     "url": "https://github.com/glycoverse/glyparse",
-    "via": ["glydet", "glymotif"],
-    "from": "glydet"
-  },
-  {
-    "package": "glyparse",
-    "url": "https://github.com/glycoverse/glyparse",
     "via": ["glystats", "glyclean", "glyread"],
     "from": "glystats"
   },
