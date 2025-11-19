@@ -42,5 +42,9 @@
   {
     "package": "glydet",
     "releasetag": true
+  },
+  {
+    "package": "glydb",
+    "releasetag": true
   }
 ]
