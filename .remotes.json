@@ -2,6 +2,12 @@
   {
     "package": "glyclean",
     "url": "https://github.com/glycoverse/glyclean",
+    "via": ["glyanno", "glymotif"],
+    "from": "glyanno"
+  },
+  {
+    "package": "glyclean",
+    "url": "https://github.com/glycoverse/glyclean",
     "via": ["glycoverse"],
     "from": "glycoverse"
   },
@@ -36,6 +42,12 @@
     "from": "glyvis"
   },
   {
+    "package": "glydb",
+    "url": "https://github.com/glycoverse/glydb",
+    "via": ["glyanno"],
+    "from": "glyanno"
+  },
+  {
     "package": "glydet",
     "url": "https://github.com/glycoverse/glydet",
     "via": ["glycoverse"],
@@ -46,6 +58,12 @@
     "url": "https://github.com/glycoverse/glyenzy",
     "via": ["glycoverse"],
     "from": "glycoverse"
+  },
+  {
+    "package": "glyexp",
+    "url": "https://github.com/glycoverse/glyexp",
+    "via": ["glyanno", "glymotif"],
+    "from": "glyanno"
   },
   {
     "package": "glyexp",
@@ -98,6 +116,12 @@
   {
     "package": "glymotif",
     "url": "https://github.com/glycoverse/glymotif",
+    "via": ["glyanno"],
+    "from": "glyanno"
+  },
+  {
+    "package": "glymotif",
+    "url": "https://github.com/glycoverse/glymotif",
     "via": ["glycoverse", "glydet"],
     "from": "glycoverse"
   },
@@ -124,6 +148,12 @@
     "url": "https://github.com/glycoverse/glyparse",
     "via": ["glyvis", "glystats", "glyclean", "glyread"],
     "from": "glyvis"
+  },
+  {
+    "package": "glyread",
+    "url": "https://github.com/glycoverse/glyread",
+    "via": ["glyanno", "glymotif", "glyclean"],
+    "from": "glyanno"
   },
   {
     "package": "glyread",

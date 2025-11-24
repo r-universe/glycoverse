@@ -5,7 +5,7 @@
 [submodule "glyanno"]
 	path = glyanno
 	url = https://github.com/glycoverse/glyanno
-	branch = *release
+	branch = v0.1.0
 [submodule "glyclean"]
 	path = glyclean
 	url = https://github.com/glycoverse/glyclean
