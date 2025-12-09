@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/glycoverse/glycoverse.r-universe.dev
 	branch = HEAD
+[submodule "glyanno"]
+	path = glyanno
+	url = https://github.com/glycoverse/glyanno
+	branch = *release
 [submodule "glyclean"]
 	path = glyclean
 	url = https://github.com/glycoverse/glyclean

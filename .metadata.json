@@ -46,5 +46,9 @@
   {
     "package": "glydb",
     "releasetag": true
+  },
+  {
+    "package": "glyanno",
+    "releasetag": true
   }
 ]
