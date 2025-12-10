@@ -9,7 +9,7 @@
 [submodule "glyclean"]
 	path = glyclean
 	url = https://github.com/glycoverse/glyclean
-	branch = v0.9.0
+	branch = v0.9.1
 [submodule "glycoverse"]
 	path = glycoverse
 	url = https://github.com/glycoverse/glycoverse
@@ -29,7 +29,7 @@
 [submodule "glyexp"]
 	path = glyexp
 	url = https://github.com/glycoverse/glyexp
-	branch = v0.10.1
+	branch = v0.10.2
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
