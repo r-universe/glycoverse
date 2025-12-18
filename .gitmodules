@@ -13,7 +13,7 @@
 [submodule "glycoverse"]
 	path = glycoverse
 	url = https://github.com/glycoverse/glycoverse
-	branch = v0.1.3
+	branch = v0.2.0
 [submodule "glydb"]
 	path = glydb
 	url = https://github.com/glycoverse/glydb
@@ -22,6 +22,10 @@
 	path = glydet
 	url = https://github.com/glycoverse/glydet
 	branch = v0.6.5
+[submodule "glydraw"]
+	path = glydraw
+	url = https://github.com/glycoverse/glydraw
+	registered = false
 [submodule "glyenzy"]
 	path = glyenzy
 	url = https://github.com/glycoverse/glyenzy
@@ -46,6 +50,10 @@
 	path = glyrepr
 	url = https://github.com/glycoverse/glyrepr
 	branch = v0.9.0
+[submodule "glysmith"]
+	path = glysmith
+	url = https://github.com/glycoverse/glysmith
+	registered = false
 [submodule "glystats"]
 	path = glystats
 	url = https://github.com/glycoverse/glystats

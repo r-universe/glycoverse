@@ -1,5 +1,11 @@
 [
   {
+    "package": "glyanno",
+    "url": "https://github.com/glycoverse/glyanno",
+    "via": ["glycoverse"],
+    "from": "glycoverse"
+  },
+  {
     "package": "glyclean",
     "url": "https://github.com/glycoverse/glyclean",
     "via": ["glyanno", "glymotif"],
@@ -48,8 +54,20 @@
     "from": "glyanno"
   },
   {
+    "package": "glydb",
+    "url": "https://github.com/glycoverse/glydb",
+    "via": ["glycoverse"],
+    "from": "glycoverse"
+  },
+  {
     "package": "glydet",
     "url": "https://github.com/glycoverse/glydet",
+    "via": ["glycoverse"],
+    "from": "glycoverse"
+  },
+  {
+    "package": "glydraw",
+    "url": "https://github.com/glycoverse/glydraw",
     "via": ["glycoverse"],
     "from": "glycoverse"
   },
@@ -184,6 +202,18 @@
     "url": "https://github.com/glycoverse/glyread",
     "via": ["glyvis", "glystats", "glyclean"],
     "from": "glyvis"
+  },
+  {
+    "package": "glyrepr",
+    "url": "https://github.com/glycoverse/glyrepr",
+    "via": ["glycoverse", "glydraw"],
+    "from": "glycoverse"
+  },
+  {
+    "package": "glysmith",
+    "url": "https://github.com/glycoverse/glysmith",
+    "via": ["glycoverse"],
+    "from": "glycoverse"
   },
   {
     "package": "glystats",
