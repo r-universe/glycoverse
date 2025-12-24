@@ -50,5 +50,9 @@
   {
     "package": "glyanno",
     "releasetag": true
+  },
+  {
+    "package": "glysmith",
+    "releasetag": true
   }
 ]
