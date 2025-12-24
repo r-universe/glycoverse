@@ -38,6 +38,12 @@
   {
     "package": "glyclean",
     "url": "https://github.com/glycoverse/glyclean",
+    "via": ["glysmith"],
+    "from": "glysmith"
+  },
+  {
+    "package": "glyclean",
+    "url": "https://github.com/glycoverse/glyclean",
     "via": ["glystats"],
     "from": "glystats"
   },
@@ -64,6 +70,12 @@
     "url": "https://github.com/glycoverse/glydet",
     "via": ["glycoverse"],
     "from": "glycoverse"
+  },
+  {
+    "package": "glydet",
+    "url": "https://github.com/glycoverse/glydet",
+    "via": ["glysmith"],
+    "from": "glysmith"
   },
   {
     "package": "glydraw",
@@ -122,6 +134,12 @@
   {
     "package": "glyexp",
     "url": "https://github.com/glycoverse/glyexp",
+    "via": ["glysmith", "glyclean"],
+    "from": "glysmith"
+  },
+  {
+    "package": "glyexp",
+    "url": "https://github.com/glycoverse/glyexp",
     "via": ["glystats"],
     "from": "glystats"
   },
@@ -154,6 +172,12 @@
     "url": "https://github.com/glycoverse/glymotif",
     "via": ["glyenzy"],
     "from": "glyenzy"
+  },
+  {
+    "package": "glymotif",
+    "url": "https://github.com/glycoverse/glymotif",
+    "via": ["glysmith", "glydet"],
+    "from": "glysmith"
   },
   {
     "package": "glyread",
@@ -194,6 +218,12 @@
   {
     "package": "glyread",
     "url": "https://github.com/glycoverse/glyread",
+    "via": ["glysmith", "glyclean"],
+    "from": "glysmith"
+  },
+  {
+    "package": "glyread",
+    "url": "https://github.com/glycoverse/glyread",
     "via": ["glystats", "glyclean"],
     "from": "glystats"
   },
@@ -230,6 +260,12 @@
   {
     "package": "glystats",
     "url": "https://github.com/glycoverse/glystats",
+    "via": ["glysmith", "glydet"],
+    "from": "glysmith"
+  },
+  {
+    "package": "glystats",
+    "url": "https://github.com/glycoverse/glystats",
     "via": ["glyvis"],
     "from": "glyvis"
   },
@@ -238,5 +274,11 @@
     "url": "https://github.com/glycoverse/glyvis",
     "via": ["glycoverse"],
     "from": "glycoverse"
+  },
+  {
+    "package": "glyvis",
+    "url": "https://github.com/glycoverse/glyvis",
+    "via": ["glysmith"],
+    "from": "glysmith"
   }
 ]
