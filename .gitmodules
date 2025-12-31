@@ -53,7 +53,7 @@
 [submodule "glysmith"]
 	path = glysmith
 	url = https://github.com/glycoverse/glysmith
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "glystats"]
 	path = glystats
 	url = https://github.com/glycoverse/glystats
