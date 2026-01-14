@@ -33,7 +33,7 @@
 [submodule "glyexp"]
 	path = glyexp
 	url = https://github.com/glycoverse/glyexp
-	branch = v0.12.1
+	branch = v0.12.3
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
@@ -45,7 +45,7 @@
 [submodule "glyread"]
 	path = glyread
 	url = https://github.com/glycoverse/glyread
-	branch = v0.8.3
+	branch = v0.8.4
 [submodule "glyrepr"]
 	path = glyrepr
 	url = https://github.com/glycoverse/glyrepr

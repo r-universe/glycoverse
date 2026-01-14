@@ -240,6 +240,12 @@
     "from": "glycoverse"
   },
   {
+    "package": "glyrepr",
+    "url": "https://github.com/glycoverse/glyrepr",
+    "via": ["glyexp"],
+    "from": "glyexp"
+  },
+  {
     "package": "glystats",
     "url": "https://github.com/glycoverse/glystats",
     "via": ["glycoverse", "glydet"],
