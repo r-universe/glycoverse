@@ -246,6 +246,12 @@
     "from": "glyexp"
   },
   {
+    "package": "glyrepr",
+    "url": "https://github.com/glycoverse/glyrepr",
+    "via": ["glyread", "glyexp"],
+    "from": "glyread"
+  },
+  {
     "package": "glystats",
     "url": "https://github.com/glycoverse/glystats",
     "via": ["glycoverse", "glydet"],
