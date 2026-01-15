@@ -52,6 +52,10 @@
     "releasetag": true
   },
   {
+    "package": "glydraw",
+    "releasetag": true
+  },
+  {
     "package": "glysmith",
     "releasetag": true
   }

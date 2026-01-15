@@ -25,7 +25,7 @@
 [submodule "glydraw"]
 	path = glydraw
 	url = https://github.com/glycoverse/glydraw
-	registered = false
+	branch = *release
 [submodule "glyenzy"]
 	path = glyenzy
 	url = https://github.com/glycoverse/glyenzy
