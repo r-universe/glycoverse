@@ -25,7 +25,7 @@
 [submodule "glydraw"]
 	path = glydraw
 	url = https://github.com/glycoverse/glydraw
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "glyenzy"]
 	path = glyenzy
 	url = https://github.com/glycoverse/glyenzy
