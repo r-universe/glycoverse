@@ -242,12 +242,6 @@
   {
     "package": "glyrepr",
     "url": "https://github.com/glycoverse/glyrepr",
-    "via": ["glycoverse", "glydraw"],
-    "from": "glycoverse"
-  },
-  {
-    "package": "glyrepr",
-    "url": "https://github.com/glycoverse/glyrepr",
     "via": ["glyread", "glyexp"],
     "from": "glyread"
   },
