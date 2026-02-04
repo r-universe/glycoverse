@@ -41,7 +41,7 @@
 [submodule "glyparse"]
 	path = glyparse
 	url = https://github.com/glycoverse/glyparse
-	branch = v0.5.4
+	branch = v0.5.5
 [submodule "glyread"]
 	path = glyread
 	url = https://github.com/glycoverse/glyread
