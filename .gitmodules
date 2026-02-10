@@ -5,7 +5,7 @@
 [submodule "glyanno"]
 	path = glyanno
 	url = https://github.com/glycoverse/glyanno
-	branch = v0.1.1
+	branch = v0.1.2
 [submodule "glyclean"]
 	path = glyclean
 	url = https://github.com/glycoverse/glyclean
@@ -29,7 +29,7 @@
 [submodule "glyenzy"]
 	path = glyenzy
 	url = https://github.com/glycoverse/glyenzy
-	branch = v0.4.2
+	branch = v0.4.3
 [submodule "glyexp"]
 	path = glyexp
 	url = https://github.com/glycoverse/glyexp
@@ -37,7 +37,7 @@
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
-	branch = v0.13.0
+	branch = v0.13.1
 [submodule "glyparse"]
 	path = glyparse
 	url = https://github.com/glycoverse/glyparse
@@ -61,4 +61,4 @@
 [submodule "glyvis"]
 	path = glyvis
 	url = https://github.com/glycoverse/glyvis
-	branch = v0.5.0
+	branch = v0.5.1
