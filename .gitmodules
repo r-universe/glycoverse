@@ -17,7 +17,7 @@
 [submodule "glydb"]
 	path = glydb
 	url = https://github.com/glycoverse/glydb
-	branch = v0.3.3
+	branch = v0.4.0
 [submodule "glydet"]
 	path = glydet
 	url = https://github.com/glycoverse/glydet
