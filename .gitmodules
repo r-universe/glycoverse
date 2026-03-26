@@ -13,7 +13,7 @@
 [submodule "glycoverse"]
 	path = glycoverse
 	url = https://github.com/glycoverse/glycoverse
-	branch = v0.2.5
+	branch = v0.3.0
 [submodule "glydb"]
 	path = glydb
 	url = https://github.com/glycoverse/glydb
@@ -45,7 +45,7 @@
 [submodule "glyread"]
 	path = glyread
 	url = https://github.com/glycoverse/glyread
-	branch = v0.9.1
+	branch = v0.9.2
 [submodule "glyrepr"]
 	path = glyrepr
 	url = https://github.com/glycoverse/glyrepr
