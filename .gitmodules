@@ -37,7 +37,7 @@
 [submodule "glyfun"]
 	path = glyfun
 	url = https://github.com/glycoverse/glyfun
-	branch = *release
+	branch = v0.1.0
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
@@ -61,7 +61,7 @@
 [submodule "glystats"]
 	path = glystats
 	url = https://github.com/glycoverse/glystats
-	branch = v0.9.0
+	branch = v0.10.0
 [submodule "glyvis"]
 	path = glyvis
 	url = https://github.com/glycoverse/glyvis
