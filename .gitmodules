@@ -34,6 +34,10 @@
 	path = glyexp
 	url = https://github.com/glycoverse/glyexp
 	branch = v0.14.1
+[submodule "glyfun"]
+	path = glyfun
+	url = https://github.com/glycoverse/glyfun
+	branch = *release
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
