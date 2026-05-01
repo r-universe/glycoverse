@@ -65,4 +65,4 @@
 [submodule "glyvis"]
 	path = glyvis
 	url = https://github.com/glycoverse/glyvis
-	branch = v0.5.1
+	branch = v0.6.0
