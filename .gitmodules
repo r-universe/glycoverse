@@ -61,7 +61,7 @@
 [submodule "glystats"]
 	path = glystats
 	url = https://github.com/glycoverse/glystats
-	branch = v0.10.0
+	branch = v0.10.1
 [submodule "glyvis"]
 	path = glyvis
 	url = https://github.com/glycoverse/glyvis
