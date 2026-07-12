@@ -37,7 +37,7 @@
 [submodule "glyfun"]
 	path = glyfun
 	url = https://github.com/glycoverse/glyfun
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
