@@ -9,7 +9,7 @@
 [submodule "glyclean"]
 	path = glyclean
 	url = https://github.com/glycoverse/glyclean
-	branch = v0.15.1
+	branch = v0.15.2
 [submodule "glycoverse"]
 	path = glycoverse
 	url = https://github.com/glycoverse/glycoverse
@@ -21,7 +21,7 @@
 [submodule "glydet"]
 	path = glydet
 	url = https://github.com/glycoverse/glydet
-	branch = v0.12.1
+	branch = v0.12.2
 [submodule "glydraw"]
 	path = glydraw
 	url = https://github.com/glycoverse/glydraw
@@ -37,11 +37,11 @@
 [submodule "glyfun"]
 	path = glyfun
 	url = https://github.com/glycoverse/glyfun
-	branch = v0.1.2
+	branch = v0.1.3
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
-	branch = v0.17.1
+	branch = v0.17.2
 [submodule "glyparse"]
 	path = glyparse
 	url = https://github.com/glycoverse/glyparse
@@ -49,7 +49,7 @@
 [submodule "glyread"]
 	path = glyread
 	url = https://github.com/glycoverse/glyread
-	branch = v0.12.0
+	branch = v0.12.1
 [submodule "glyrepr"]
 	path = glyrepr
 	url = https://github.com/glycoverse/glyrepr
@@ -57,12 +57,12 @@
 [submodule "glysmith"]
 	path = glysmith
 	url = https://github.com/glycoverse/glysmith
-	branch = v0.12.1
+	branch = v0.12.2
 [submodule "glystats"]
 	path = glystats
 	url = https://github.com/glycoverse/glystats
-	branch = v0.11.1
+	branch = v0.11.2
 [submodule "glyvis"]
 	path = glyvis
 	url = https://github.com/glycoverse/glyvis
-	branch = v0.7.1
+	branch = v0.7.2
