@@ -41,7 +41,7 @@
 [submodule "glymotif"]
 	path = glymotif
 	url = https://github.com/glycoverse/glymotif
-	branch = v0.17.3
+	branch = v0.19.0
 [submodule "glyparse"]
 	path = glyparse
 	url = https://github.com/glycoverse/glyparse
