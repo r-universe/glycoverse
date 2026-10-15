@@ -49,7 +49,7 @@
 [submodule "glyread"]
 	path = glyread
 	url = https://github.com/glycoverse/glyread
-	branch = v0.12.1
+	branch = v0.12.2
 [submodule "glyrepr"]
 	path = glyrepr
 	url = https://github.com/glycoverse/glyrepr
